@@ -10,8 +10,8 @@
 	</parent>
 	<groupId>com.sk.microservice.eureka.naming.server</groupId>
 	<artifactId>spring-boot-eureka-server</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-eureka-server</name>
+	<version>0.0.1</version>
+	<name>eureka-naming-server</name>
 	<description>Eureka Server</description>
 	<packaging>jar</packaging>
 

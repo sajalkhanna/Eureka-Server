@@ -1,0 +1,10 @@
+eureka:
+    client:
+        fetch-registry: false
+        register-with-eureka: false
+server:
+    servlet:
+        context-path: /eureka-server
+spring:
+    application:
+        name: eureka-naming-server
