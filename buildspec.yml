@@ -4,4 +4,4 @@ phases:
       - mvn clean install
 artifacts:
   files:
-    - target/spring-boot-eureka-server-0.0.1.jar
+    - target/*.jar
